@@ -1,2 +1,2 @@
 # yourshugo.github.io
- Bolg
+username.github.io
